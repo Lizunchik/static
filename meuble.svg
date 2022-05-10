@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="17.432" viewBox="0 0 20 17.432">
+  <g id="meuble" transform="translate(-767 -156.164)">
+    <g id="Rectangle_1863" data-name="Rectangle 1863" transform="translate(767 156.164)" fill="none" stroke="#000" stroke-width="1">
+      <path d="M2,0H18a2,2,0,0,1,2,2V8a0,0,0,0,1,0,0H0A0,0,0,0,1,0,8V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M2,.5H18A1.5,1.5,0,0,1,19.5,2V7a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,7V2A1.5,1.5,0,0,1,2,.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_1864" data-name="Rectangle 1864" transform="translate(767 162.979)" fill="none" stroke="#000" stroke-width="1">
+      <path d="M0,0H20a0,0,0,0,1,0,0V6a2,2,0,0,1-2,2H2A2,2,0,0,1,0,6V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H19a.5.5,0,0,1,.5.5V6A1.5,1.5,0,0,1,18,7.5H2A1.5,1.5,0,0,1,.5,6V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <line id="Ligne_3000" data-name="Ligne 3000" x1="1.791" y2="2.236" transform="translate(770.8 170.657)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Ligne_3001" data-name="Ligne 3001" x2="1.791" y2="2.236" transform="translate(781.991 170.657)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Ellipse_576" data-name="Ellipse 576" transform="translate(776 158.164)" fill="#db3832" stroke="#db3832" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_577" data-name="Ellipse 577" transform="translate(776 165.164)" fill="#db3832" stroke="#db3832" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>

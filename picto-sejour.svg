@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="picto_sejour" data-name="picto/sejour" transform="translate(-0.5 -0.5)">
+    <rect id="BG" width="25" height="25" transform="translate(0.5 0.5)" fill="none"/>
+    <path id="Tracé_10819" data-name="Tracé 10819" d="M-212.108,241.576l-2.06,4.371" transform="translate(218.948 -224.011)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <path id="Tracé_10821" data-name="Tracé 10821" d="M-197.518,212.863c.01-.269.012-.835-.024-2.023-.069-2.273-2.5-4.091-4.454-4.091h-5.444c-1.923,0-4.339,1.765-4.45,3.991a20.818,20.818,0,0,0-.037,2.111" transform="translate(217.603 -203)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <rect id="Rectangle_1771" data-name="Rectangle 1771" width="10.712" height="4.364" transform="translate(7.599 13.562)" fill="#db3832"/>
+    <g id="Rectangle_1631" data-name="Rectangle 1631" transform="translate(3.68 10.028)">
+      <path id="Tracé_10541" data-name="Tracé 10541" d="M-214.957,222.576h0a1.983,1.983,0,0,1,1.984,1.984v5.334a.221.221,0,0,1-.221.221h-3.526a.221.221,0,0,1-.221-.221V224.56A1.984,1.984,0,0,1-214.957,222.576Z" transform="translate(216.941 -222.576)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <path id="Tracé_10850" data-name="Tracé 10850" d="M-178.168,241.568l2.06,4.374" transform="translate(197.23 -224.006)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <g id="Rectangle_1659" data-name="Rectangle 1659" transform="translate(17.962 10.028)">
+      <path id="Tracé_10542" data-name="Tracé 10542" d="M-178.957,222.576h0a1.983,1.983,0,0,1,1.984,1.984v5.334a.221.221,0,0,1-.221.221h-3.526a.221.221,0,0,1-.221-.221V224.56A1.984,1.984,0,0,1-178.957,222.576Z" transform="translate(180.941 -222.576)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

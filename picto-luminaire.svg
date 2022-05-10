@@ -1,15 +1,15 @@
-<svg id="picto_luminaire" data-name="picto/luminaire" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-  <g id="Deco_icon" data-name="Deco icon" transform="translate(7.051 7.172)">
+<svg id="picto_luminaire" data-name="picto/luminaire" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <rect id="Rectangle_1149" data-name="Rectangle 1149" width="25" height="25" fill="rgba(255,75,75,0)"/>
+  <g id="Deco_icon" data-name="Deco icon" transform="translate(3.672 3.735)">
     <g id="Groupe_5577" data-name="Groupe 5577">
       <g id="Groupe_5312" data-name="Groupe 5312">
-        <path id="Rectangle_1660" data-name="Rectangle 1660" d="M-167.336,360.27l10.673,7.2-2.6,2.767-11.576-7.808Z" transform="translate(187.115 -354.171)" fill="#db3832"/>
-        <path id="Rectangle_1661" data-name="Rectangle 1661" d="M-155.588,379.148l-9.881,8.585-5.305-.358,11.736-10.2Z" transform="translate(187.099 -358.398)" fill="#db3832"/>
-        <path id="Tracé_10615" data-name="Tracé 10615" d="M-171.5,353.892h0a3.423,3.423,0,0,0-4.676-1.254h0l-3.807,2.2a10.888,10.888,0,0,0-12.553-1.279l10.971,18.838a10.9,10.9,0,0,0,5.058-11.658l3.755-2.168a3.424,3.424,0,0,0,1.257-4.676l0,0Z" transform="translate(192.54 -352.138)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <path id="Tracé_10617" data-name="Tracé 10617" d="M-184.4,369.076a4.567,4.567,0,0,1-6.044-2.279,4.563,4.563,0,0,1-.407-1.88h0a4.559,4.559,0,0,1,1.87-3.685" transform="translate(192.117 -354.412)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <circle id="Ellipse_552" data-name="Ellipse 552" cx="3.375" cy="3.375" r="3.375" transform="translate(27.748 13.504)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Rectangle_1660" data-name="Rectangle 1660" d="M-169.016,360.27l5.559,3.75-1.356,1.441-6.029-4.067Z" transform="translate(179.318 -357.093)" fill="#db3832"/>
+        <path id="Rectangle_1661" data-name="Rectangle 1661" d="M-162.865,378.2l-5.146,4.471-2.763-.186,6.113-5.313Z" transform="translate(179.277 -367.396)" fill="#db3832"/>
+        <path id="Tracé_10615" data-name="Tracé 10615" d="M-181.583,353.051h0a1.783,1.783,0,0,0-2.435-.653h0L-186,353.544a5.671,5.671,0,0,0-6.538-.666l5.714,9.812a5.678,5.678,0,0,0,2.634-6.072l1.955-1.129a1.783,1.783,0,0,0,.655-2.436v0Z" transform="translate(192.54 -352.138)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Tracé_10617" data-name="Tracé 10617" d="M-187.488,365.317a2.379,2.379,0,0,1-3.148-1.187,2.377,2.377,0,0,1-.212-.979h0a2.375,2.375,0,0,1,.974-1.919" transform="translate(191.508 -357.68)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="Ellipse_552" data-name="Ellipse 552" cx="1.758" cy="1.758" r="1.758" transform="translate(14.452 7.034)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
     </g>
-    <path id="Tracé_10851" data-name="Tracé 10851" d="M-180.542,396.395h0c0-2.887,2.051-5.25,4.556-5.25h11.137c2.507,0,4.556,2.363,4.556,5.25Z" transform="translate(189.54 -361.89)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Tracé_10851" data-name="Tracé 10851" d="M-180.542,393.879h0a2.581,2.581,0,0,1,2.373-2.734h5.8A2.58,2.58,0,0,1-170,393.879Z" transform="translate(185.229 -375.908)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
   </g>
-  <rect id="Rectangle_1149" data-name="Rectangle 1149" width="48" height="48" fill="rgba(255,75,75,0)"/>
 </svg>
