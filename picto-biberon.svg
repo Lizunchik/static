@@ -1,0 +1,30 @@
+<svg id="picto_biberon" data-name="picto/biberon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Rectangle_1876" data-name="Rectangle 1876" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="48" height="48" stroke="none"/>
+    <rect x="0.5" y="0.5" width="47" height="47" fill="none"/>
+  </g>
+  <g id="biberon_" data-name="biberon " transform="translate(15 5.25)">
+    <g id="Groupe_5853" data-name="Groupe 5853" transform="translate(0 14.25)">
+      <g id="Tracé_11130" data-name="Tracé 11130" transform="translate(0 -4)" fill="#fff">
+        <path d="M 17.75 27 L 1 27 L 1 8.5 C 1 6.585730075836182 1.811390042304993 5.964620113372803 2.605089902877808 5.609509944915771 C 3.735729932785034 5.103650093078613 5.379600048065186 5 7.5 5 L 11.25 5 C 13.37040042877197 5 15.01426982879639 5.103650093078613 16.14491081237793 5.609509944915771 C 16.9386100769043 5.964620113372803 17.75 6.585730075836182 17.75 8.5 L 17.75 27 Z" stroke="none"/>
+        <path d="M 7.5 6 C 5.776129722595215 6 4.039480209350586 6.06328010559082 3.013489723205566 6.522310256958008 C 2.479400634765625 6.761259078979492 2 7.092319488525391 2 8.5 L 2 26 L 16.75 26 L 16.75 8.5 C 16.75 7.092319488525391 16.27059936523438 6.761259078979492 15.73651027679443 6.522310256958008 C 14.71051979064941 6.06328010559082 12.97386932373047 6 11.25 6 L 7.5 6 M 7.5 4 L 11.25 4 C 15.39213943481445 4 18.75 4.357860565185547 18.75 8.5 L 18.75 27.25 C 18.75 27.66420936584473 18.41420936584473 28 18 28 L 0.75 28 C 0.3357906341552734 28 0 27.66420936584473 0 27.25 L 0 8.5 C 0 4.357860565185547 3.35785961151123 4 7.5 4 Z" stroke="none" fill="#000"/>
+      </g>
+      <line id="Ligne_3651" data-name="Ligne 3651" x1="3.855" transform="translate(8.52 7.125)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <line id="Ligne_3652" data-name="Ligne 3652" x1="6.059" transform="translate(6.316 10.875)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <line id="Ligne_3653" data-name="Ligne 3653" x1="3.75" transform="translate(8.625 14.625)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <line id="Ligne_3654" data-name="Ligne 3654" y2="12.75" transform="translate(14.625 6.375)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <line id="Ligne_3655" data-name="Ligne 3655" x1="6.059" transform="translate(6.316 18.375)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Groupe_5854" data-name="Groupe 5854" transform="translate(1.933)">
+      <g id="Ellipse_580" data-name="Ellipse 580" transform="translate(3.692)" fill="#db3832" stroke="#db3832" stroke-width="1">
+        <circle cx="3.75" cy="3.75" r="3.75" stroke="none"/>
+        <circle cx="3.75" cy="3.75" r="3.25" fill="none"/>
+      </g>
+      <path id="Tracé_11131" data-name="Tracé 11131" d="M7.017,0c3.955,0,8.653,5.25,7.161,5.25H-.144C-1.724,5.25,3.062,0,7.017,0Z" transform="translate(0.454 6)" fill="#db3832"/>
+    </g>
+    <g id="Rectangle_1875" data-name="Rectangle 1875" transform="translate(0 9.75)" fill="none" stroke="#000" stroke-width="2">
+      <rect width="19" height="6" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="17" height="4" rx="2" fill="none"/>
+    </g>
+  </g>
+</svg>
