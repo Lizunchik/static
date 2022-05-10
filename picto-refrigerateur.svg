@@ -1,0 +1,7 @@
+<svg id="picto_refrigerateur" data-name="picto/refrigerateur" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_1781" data-name="Rectangle 1781" width="29" height="40" rx="4" transform="translate(10 4)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line id="Ligne_3572" data-name="Ligne 3572" x2="29.25" transform="translate(9.75 19.556)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Tracé_10970" data-name="Tracé 10970" d="M27.709,31.752,17.209,31a.76.76,0,0,0-.565.2.751.751,0,0,0-.239.549v1.5a.749.749,0,0,0,.75.75h.053l10.5-.75a.75.75,0,0,0,0-1.5Z" transform="translate(-3.656 -7.75)" fill="#db3832"/>
+  <path id="Tracé_10971" data-name="Tracé 10971" d="M27.709,17.961l-10.5-.75a.75.75,0,0,0-.8.748v1.5a.749.749,0,0,0,.75.75h.053l10.5-.75a.75.75,0,0,0,0-1.5Z" transform="translate(-3.656 -4.302)" fill="#db3832"/>
+  <rect id="Rectangle_1782" data-name="Rectangle 1782" width="48" height="48" opacity="0"/>
+</svg>
